@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.mot{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.pic{
+    border: 10px solid white;
+    width: 100%;
+   
+}
+
+p{
+    width: 50%;
+    margin-left: 25%;
+}
+
